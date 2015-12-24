@@ -1,0 +1,9 @@
+C:\Users\Kieu Khanh\Desktop\XML\baithi\1312283\bin\Debug\1312283.exe.config
+C:\Users\Kieu Khanh\Desktop\XML\baithi\1312283\bin\Debug\1312283.exe
+C:\Users\Kieu Khanh\Desktop\XML\baithi\1312283\bin\Debug\1312283.pdb
+C:\Users\Kieu Khanh\Desktop\XML\baithi\1312283\obj\Debug\1312283.csprojResolveAssemblyReference.cache
+C:\Users\Kieu Khanh\Desktop\XML\baithi\1312283\obj\Debug\_1312283.Form1.resources
+C:\Users\Kieu Khanh\Desktop\XML\baithi\1312283\obj\Debug\_1312283.Properties.Resources.resources
+C:\Users\Kieu Khanh\Desktop\XML\baithi\1312283\obj\Debug\1312283.csproj.GenerateResource.Cache
+C:\Users\Kieu Khanh\Desktop\XML\baithi\1312283\obj\Debug\1312283.exe
+C:\Users\Kieu Khanh\Desktop\XML\baithi\1312283\obj\Debug\1312283.pdb
